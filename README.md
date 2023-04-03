@@ -16,9 +16,10 @@
 - ⚡ Fun fact **I love music and videogames**
 
 -Languages:
-        -Spain - Primary language
         <br>
-        -English - Second primary language
+        --Spain - Primary language
+        <br>
+        --English - Second primary language
         <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
