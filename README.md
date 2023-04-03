@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victorio Perez</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
+<h4 align="center">Student of the national technological university</h4>
+<h4>Currently studying technical degree in programming and fullstack developer in NUCBA</h>
 
 - 🔭 I’m currently working on [Proyecto-Final-NUCBA](https://github.com/VictorioPerez/proyecto-final-NUCBA)
 
