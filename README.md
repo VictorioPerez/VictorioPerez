@@ -5,9 +5,9 @@
 
 - 🤓 Currently studying technical degree in programming and fullstack developer in NUCBA 
 
-- 🔭 I’m currently working on [Proyecto-Final-NUCBA](https://github.com/VictorioPerez/proyecto-final-NUCBA)
+- 🔭 I’m currently working on proyecto final programacion ferreteria with angular
 
-- 🌱 I’m currently learning **Java,Javascript and CSS**
+- 🌱 I’m currently learning **Java,JS and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VictorioPerez](https://github.com/VictorioPerez)
 
