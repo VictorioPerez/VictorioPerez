@@ -17,7 +17,7 @@
 
 -Languages:
         <br>
-        --Spain - Primary language
+        --Spanish - Primary language
         <br>
         --English - Second primary language
         <br>
